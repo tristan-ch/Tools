@@ -17,3 +17,12 @@ List of tools for web developers
  * [Navicat Premium](http://www.navicat.com/products/navicat-premium)
 * MongoDB
  * [Robomongo](http://robomongo.org/)
+
+## Continuous Integration and Deployment (*SaaS*)
+* [Circle CI](https://circleci.com)
+* [Codeship](https://codeship.com)
+* [Travis CI](https://travis-ci.org)
+
+## Cloud file storage
+* [Google Drive](https://www.google.com/intl/fr/drive/)
+* [Dropbox](https://www.dropbox.com)
