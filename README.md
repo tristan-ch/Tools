@@ -17,6 +17,8 @@ List of tools for web developers
  * [Navicat Premium](http://www.navicat.com/products/navicat-premium)
 * MongoDB
  * [Robomongo](http://robomongo.org/)
+* MySQL
+ * [Sequel Pro](http://www.sequelpro.com/)
 
 ## Continuous Integration and Deployment (*SaaS*)
 * [Circle CI](https://circleci.com)
